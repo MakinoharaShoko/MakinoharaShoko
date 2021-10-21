@@ -1,5 +1,7 @@
 [![Kamome's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakinoharaShoko)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakinoharaShoko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 今年見つけた たくさんの気持ちに 雪が降り積もる
 
 在今年所找到的 这些越来越多的感觉上 雪花堆积了起来

@@ -38,7 +38,78 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 671 Contributions in the Year 2021
+ > 
+> 📦 305.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
+🌆 Daytime    177 commits    ████████░░░░░░░░░░░░░░░░░   35.19% 
+🌃 Evening    250 commits    ████████████░░░░░░░░░░░░░   49.7% 
+🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Tuesday      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
+Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+Friday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+Saturday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.31%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             █████████████░░░░░░░░░░░░   53.85% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/MakinoharaShoko/MakinoharaShoko/main/charts/bar_graph.png) 
+
+
+ Last Updated on 21/12/2021
 <!--END_SECTION:waka-->

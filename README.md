@@ -38,13 +38,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 672 Contributions in the Year 2021
  > 
-> 📦 305.0 kB Used in GitHub's Storage 
+> 📦 305.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,16 +83,17 @@ Sunday       72 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               9 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              ██████████████░░░░░░░░░░░   58.85% 
+WebStorm                 3 mins              ██████████░░░░░░░░░░░░░░░   41.15%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Learning-Code            9 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -111,5 +114,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MakinoharaShoko/MakinoharaShoko/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->

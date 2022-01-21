@@ -18,7 +18,7 @@
 
 [flyVar](https://github.com/MakinoharaShoko/flyVar)
 
-### 一个简单的随鼠标滚动控制元素滑动的动画库 | Play an animation when whell scrolls.
+### 一个简单的随鼠标滚动控制元素滑动的动画库 | Play an animation when wheel scrolls.
 
 [AniScroll](https://github.com/MakinoharaShoko/AniScroll)
 

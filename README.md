@@ -45,7 +45,6 @@
 ## 我的 GitHub 统计数据
 
 [![Kamome's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakinoharaShoko)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakinoharaShoko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

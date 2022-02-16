@@ -23,7 +23,10 @@
     },
     "educationList": [
         {
-            "edu_time": "2019/9,2023/6",
+            "edu_time": [
+                "2019.9",
+                "2023.6"
+            ],
             "school": "安徽大学",
             "major": "软件工程",
             "academic_degree": "本科",
@@ -64,7 +67,7 @@
         },
         {
             "skill_name": "React / Pixi",
-            "skill_desc": "单页 WebAPP 开发经验，使用 Pixi 实现简单粒子特效的经验",
+            "skill_desc": "",
             "skill_level": 85,
             "dataIndex": 2
         }

@@ -44,7 +44,7 @@
             "company_name": "Andatong",
             "department_name": "FE team",
             "work_time": ["2019.08",""],
-            "work_desc": "Responsible for the design and implementation of the homepage interface of the campus applet An Datong, maintenance and design of the interface call for the display and update of the homepage information of the applet.",
+            "work_desc": "Responsible for the UI design and implementation of the homepage of the campus miniprogram An Datong.",
             "dataIndex": 0
         }
     ],
@@ -73,15 +73,15 @@
             "project_role": "Author",
             "project_time": ["2021.09",""],
             "project_desc": "A brand new Visual Novel engine based on Web.",
-            "project_content": "A visual novel game engine,can be accessed via the internet,and can be played in the browser.",
+            "project_content": "Developed a visual novel game engine,can be accessed via the internet,and can be played in the browser.",
             "dataIndex": 0
         },
         {
             "project_name": "Andatong Miniprogram",
             "project_role": "Front-end developer",
             "project_time": ["2021.08",""],
-            "project_desc": "Responsible for the main interface UI implementation of the applet",
-            "project_content": "Responsible for the function development and UI design of the homepage of the campus applet An Datong, realizing the logic of viewing the daily schedule and tomorrow's schedule; introducing a card-style information display method for the homepage to improve the efficiency of displaying various campus and personal information to users .",
+            "project_desc": "Responsible for the UI implementation of the miniprogram",
+            "project_content": "Designed a new homepage UI for the campus miniprogram Andatong ,and implemented the UI.",
             "dataIndex": 0
         }
     ],
@@ -93,7 +93,7 @@
         }
     ],
     "aboutme": {
-        "aboutme_desc": "🌱 Focus on UI implementation\n😈 Skill：UI implementation\nA Front-end developer loves UI implementation , has experience in designing and implementing a single-page WebAPP independently, and developed the open source project WebGAL visual novel engine."
+        "aboutme_desc": "🌱 Focus on UI implementation\n A Front-end developer loves UI implementation, has experience in designing and implementing a single-page WebAPP independently. \n Developed the open source project WebGAL visual novel engine."
     },
     "theme": {
         "color": "#2f5785",

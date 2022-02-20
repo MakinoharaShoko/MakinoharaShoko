@@ -1,25 +1,25 @@
 {
     "titleNameMap": {
-        "educationList": "教育背景",
-        "workExpList": "工作经历",
-        "projectList": "项目经历",
-        "skillList": "个人技能",
-        "awardList": "更多信息",
-        "workList": "个人作品",
-        "aboutme": "自我介绍"
+        "educationList": "Education",
+        "workExpList": "Work Experience",
+        "projectList": "Project Experience",
+        "skillList": "Skills",
+        "awardList": "Certificate",
+        "workList": "Projects",
+        "aboutme": "About Me"
     },
     "avatar": {
         "src": "https://",
         "hidden": true
     },
     "profile": {
-        "name": "付天辰",
+        "name": "Fu Tianchen",
         "email": "fu_tianchen@outlook.com",
         "mobile": "18226639319",
         "github": "https://github.com/MakinoharaShoko",
         "zhihu": "",
         "workExpYear": "",
-        "positionTitle": "前端工程师"
+        "positionTitle": "Front-end engineer"
     },
     "educationList": [
         {
@@ -27,35 +27,30 @@
                 "2019.9",
                 "2023.6"
             ],
-            "school": "安徽大学",
-            "major": "软件工程",
-            "academic_degree": "本科",
+            "school": "Anhui University",
+            "major": "Software engineering",
+            "academic_degree": "Undergraduate",
             "dataIndex": 0
         }
     ],
     "awardList": [
         {
-            "award_info": "英语 CET6",
-            "award_time": "2015"
-        },
-        {
-            "award_info": "字节跳动前端青训营 项目评比 最佳实践奖",
-            "award_time": "2022.2",
-            "dataIndex": 1
+            "award_info": "CET4",
+            "award_time": "2021"
         }
     ],
     "workExpList": [
         {
-            "company_name": "安大通",
-            "department_name": "前端部门",
+            "company_name": "Andatong",
+            "department_name": "FE team",
             "work_time": ["2019.08",""],
-            "work_desc": "负责校园小程序“安大通”主页界面的设计与实现、维护并设计小程序主页信息展示与更新的接口调用。",
+            "work_desc": "Responsible for the design and implementation of the homepage interface of the campus applet An Datong, maintenance and design of the interface call for the display and update of the homepage information of the applet.",
             "dataIndex": 0
         }
     ],
     "skillList": [
         {
-            "skill_name": "HTML 和 CSS",
+            "skill_name": "HTML & CSS",
             "skill_desc": "",
             "skill_level": 89
         },
@@ -75,30 +70,30 @@
     "projectList": [
         {
             "project_name": "WebGAL",
-            "project_role": "作者",
-            "project_time": "2021.09 - ",
-            "project_desc": "全新的基于 Web 的 视觉小说引擎。\n语法简单，功能强大，并开发了与之配套的图形化游戏制作工具 WebGAL Origine。\n该引擎支持了包括简单特效在内的视觉小说游戏运行功能。",
-            "project_content": "开发个人开源项目 WebGAL ，具有强大的表达能力和特效实现能力，UI美观，功能完备，支持存读档、文本回溯、跳转、设置字体大小与播放速度、自动播放与快进等功能，致力于打造最易于开发的视觉小说引擎。",
+            "project_role": "Author",
+            "project_time": ["2021.09",""],
+            "project_desc": "A brand new Visual Novel engine based on Web.",
+            "project_content": "A visual novel game engine,can be accessed via the internet,and can be played in the browser.",
             "dataIndex": 0
         },
         {
-            "project_name": "安大通小程序",
-            "project_role": "前端开发",
-            "project_time": "2021.08 - ",
-            "project_desc": "负责小程序主界面 UI 实现",
-            "project_content": "负责校园小程序“安大通”主页的功能开发和UI设计，实现了查看每日课表和明日课表的逻辑；为主页引入卡片式信息展示方式，改善了向用户展示各种校园及个人信息的效率。",
+            "project_name": "Andatong Miniprogram",
+            "project_role": "Front-end developer",
+            "project_time": ["2021.08",""],
+            "project_desc": "Responsible for the main interface UI implementation of the applet",
+            "project_content": "Responsible for the function development and UI design of the homepage of the campus applet An Datong, realizing the logic of viewing the daily schedule and tomorrow's schedule; introducing a card-style information display method for the homepage to improve the efficiency of displaying various campus and personal information to users .",
             "dataIndex": 0
         }
     ],
     "workList": [
         {
             "work_name": "WebGAL",
-            "work_desc": "网页端视觉小说引擎 https://github.com/MakinoharaShoko/WebGAL ",
+            "work_desc": "A brand new Visual Novel engine based on Web.",
             "visit_link": "https://github.com/MakinoharaShoko/WebGAL"
         }
     ],
     "aboutme": {
-        "aboutme_desc": "🌱 Focus on UI implementation\n😈 能力项：UI实现能力\n热爱 UI 设计与实现的前端工程师，拥有独立设计并实现单页 WebAPP 的经验，开发开源项目 WebGAL 视觉小说引擎。"
+        "aboutme_desc": "🌱 Focus on UI implementation\n😈 Skill：UI implementation\nA Front-end developer loves UI implementation , has experience in designing and implementing a single-page WebAPP independently, and developed the open source project WebGAL visual novel engine."
     },
     "theme": {
         "color": "#2f5785",

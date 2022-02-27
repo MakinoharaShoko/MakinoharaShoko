@@ -36,7 +36,7 @@
     "awardList": [
         {
             "award_info": "英语 CET6",
-            "award_time": "2015"
+            "award_time": "2022"
         },
         {
             "award_info": "字节跳动前端青训营 项目评比 最佳实践奖",
@@ -48,7 +48,7 @@
         {
             "company_name": "安大通",
             "department_name": "前端部门",
-            "work_time": "2019.08,",
+            "work_time": ["2019.08",""],
             "work_desc": "负责校园小程序“安大通”主页界面的设计与实现、维护并设计小程序主页信息展示与更新的接口调用。",
             "dataIndex": 0
         }
@@ -76,7 +76,7 @@
         {
             "project_name": "WebGAL",
             "project_role": "作者",
-            "project_time": ["2021.09",""],
+            "project_time": "2021.09 - ",
             "project_desc": "全新的基于 Web 的 视觉小说引擎。\n语法简单，功能强大，并开发了与之配套的图形化游戏制作工具 WebGAL Origine。\n该引擎支持了包括简单特效在内的视觉小说游戏运行功能。",
             "project_content": "开发个人开源项目 WebGAL ，具有强大的表达能力和特效实现能力，UI美观，功能完备，支持存读档、文本回溯、跳转、设置字体大小与播放速度、自动播放与快进等功能，致力于打造最易于开发的视觉小说引擎。",
             "dataIndex": 0
@@ -84,7 +84,7 @@
         {
             "project_name": "CloudLog.js",
             "project_role": "作者",
-            "project_time": ["2022.01",""],
+            "project_time": "2022.01 - ",
             "project_desc": "JavaScript 日志工具，格式化输出 & 上传 & 在线可视化查看",
             "project_content": "可以将不同级别的日志以不同颜色格式化输出到控制台，将日志记录上传到 MongoDB 数据库，并将 MongoDB 数据库内的日志记录实时（使用AJAX轮询实现）可视化展示（并提供筛选功能）。",
             "dataIndex": 0
@@ -92,7 +92,7 @@
         {
             "project_name": "eim",
             "project_role": "作者",
-            "project_time": ["2022.01",""],
+            "project_time": "2022.01 - ",
             "project_desc": "一个简单的即时通讯软件",
             "project_content": "使用React构建的网页端即时通讯软件，只能发送文本。可以实现注册、好友添加及管理等功能。\n后端使用express，数据库使用MongoDB，使用AJAX轮询来实现与服务端数据的同步。\n该项目主要用于练习手机端界面适配和网络请求的使用。",
             "dataIndex": 0
@@ -100,7 +100,7 @@
         {
             "project_name": "安大通小程序",
             "project_role": "前端开发",
-            "project_time": ["2021.08",""],
+            "project_time": "2021.08 - ",
             "project_desc": "负责小程序主界面 UI 实现",
             "project_content": "负责校园小程序“安大通”主页的功能开发和UI设计，实现了查看每日课表和明日课表的逻辑；为主页引入卡片式信息展示方式，改善了向用户展示各种校园及个人信息的效率。",
             "dataIndex": 0
@@ -111,6 +111,11 @@
             "work_name": "WebGAL",
             "work_desc": "网页端视觉小说引擎",
             "visit_link": "https://github.com/MakinoharaShoko/WebGAL"
+        },
+        {
+            "work_name": "CloudLog.js",
+            "work_desc": "JavaScript 日志工具，格式化输出 & 上传 & 在线可视化查看",
+            "visit_link": "https://github.com/MakinoharaShoko/CloudLog.JS"
         }
     ],
     "aboutme": {

@@ -90,14 +90,6 @@
             "dataIndex": 0
         },
         {
-            "project_name": "eim",
-            "project_role": "作者",
-            "project_time": "2021.11 - 2021.12",
-            "project_desc": "一个简单的即时通讯软件",
-            "project_content": "使用React构建的网页端即时通讯软件，只能发送文本。可以实现注册、好友添加及管理等功能。\n后端使用express，数据库使用MongoDB，使用AJAX轮询来实现与服务端数据的同步。\n该项目主要用于练习手机端界面适配和网络请求的使用。",
-            "dataIndex": 0
-        },
-        {
             "project_name": "安大通小程序",
             "project_role": "前端开发",
             "project_time": "2021.08 - 至今",

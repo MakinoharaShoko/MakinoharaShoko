@@ -40,7 +40,7 @@
         },
         {
             "award_info": "字节跳动前端青训营 项目评比 最佳实践奖",
-            "award_time": "2022.2",
+            "award_time": "2022",
             "dataIndex": 1
         }
     ],
@@ -49,7 +49,7 @@
             "company_name": "安大通",
             "department_name": "前端部门",
             "work_time": ["2019.08",""],
-            "work_desc": "负责校园小程序“安大通”主页界面的设计与实现、维护并设计小程序主页信息展示与更新的接口调用。",
+            "work_desc": "负责校园信息查询类小程序“安大通”主页的 UI 设计与实现、维护小程序的接口调用。",
             "dataIndex": 0
         }
     ],
@@ -57,7 +57,7 @@
         {
             "skill_name": "HTML 和 CSS",
             "skill_desc": "",
-            "skill_level": 89
+            "skill_level": 85
         },
         {
             "skill_name": "JavaScript",
@@ -68,7 +68,7 @@
         {
             "skill_name": "React / Pixi",
             "skill_desc": "",
-            "skill_level": 85,
+            "skill_level": 80,
             "dataIndex": 2
         }
     ],
@@ -77,8 +77,8 @@
             "project_name": "WebGAL",
             "project_role": "作者",
             "project_time": "2021.09 - 至今",
-            "project_desc": "全新的基于 Web 的 视觉小说引擎。\n语法简单，功能强大，并开发了与之配套的图形化游戏制作工具 WebGAL Origine。\n该引擎支持了包括简单特效在内的视觉小说游戏运行功能。",
-            "project_content": "开发个人开源项目 WebGAL ，具有强大的表达能力和特效实现能力，UI美观，功能完备，支持存读档、文本回溯、跳转、设置字体大小与播放速度、自动播放与快进等功能，致力于打造最易于开发的视觉小说引擎。",
+            "project_desc": "全新的基于 Web 的 视觉小说引擎。",
+            "project_content": "WebGAL 是一款功能完备、界面美观、易于学习的视觉小说引擎，致力于为创作者提供最好的创作体验。该引擎还附带了一个可视化创作工具，创作者无需学习编写代码即可制作游戏。为了使创作者无需关心跨平台和发布问题，WebGAL 以 Web 前端技术为载体，并为手机端做了适配，提供了最优的跨平台能力。以 WebGAL 为平台制作的游戏可以导出为一个静态网页，方便部署到网站上以供在线游玩。",
             "dataIndex": 0
         },
         {
@@ -86,15 +86,15 @@
             "project_role": "作者",
             "project_time": "2022.01",
             "project_desc": "JavaScript 日志工具，格式化输出 & 上传 & 在线可视化查看",
-            "project_content": "可以将不同级别的日志以不同颜色格式化输出到控制台，将日志记录上传到 MongoDB 数据库，并将 MongoDB 数据库内的日志记录实时（使用AJAX轮询实现）可视化展示（并提供筛选功能）。",
+            "project_content": "CloudLog.js 可以在控制台以不同颜色分级输出日志，通过 CloudLog 服务器将日志上传到数据库，并可以实时通过浏览器在线访问（并提供按级别、日期筛选功能）。",
             "dataIndex": 0
         },
         {
             "project_name": "安大通小程序",
             "project_role": "前端开发",
             "project_time": "2021.08 - 至今",
-            "project_desc": "负责小程序主界面 UI 实现",
-            "project_content": "负责校园小程序“安大通”主页的功能开发和UI设计，实现了查看每日课表和明日课表的逻辑；为主页引入卡片式信息展示方式，改善了向用户展示各种校园及个人信息的效率。",
+            "project_desc": "设计并实现小程序主页 UI ",
+            "project_content": "为使用户更方便地查看每日课表、校园卡余额等信息，设计了一套全新的主界面 UI，大大提升了各类信息展示的效率，改善了用户体验。",
             "dataIndex": 0
         }
     ],

@@ -62,7 +62,7 @@
         },
         {
             "skill_name": "React / Pixi",
-            "skill_desc": "熟练使用 React HOOK 构建前端应用程序，熟悉 Redux 状态管理工具，熟练使用 AntDesign 等组件库。",
+            "skill_desc": "熟练使用 React 构建前端应用程序，熟悉 Redux 状态管理工具，熟练使用 AntDesign 等组件库。",
             "skill_level": 90,
             "dataIndex": 2
         },
@@ -112,7 +112,7 @@
         }
     ],
     "aboutme": {
-        "aboutme_desc": "熟练掌握 Web APP 的开发；有自主设计并实现 UI 能力，并能够打造具有赏心悦目的视觉效果的界面。\n创立并维护个人开源项目 WebGAL 网页端视觉小说游戏引擎及可视化游戏制作工具，在 GitHub 获得 1000+ stars，广受用户好评。\n有使用 Node.JS 进行后台开发的经验，有实现简易 API 并操作文件系统的经验。"
+        "aboutme_desc": "熟练掌握 Web APP 的开发；有自主设计并实现 UI 能力，并能够打造具有赏心悦目的视觉效果的界面。\n创立并维护个人开源项目 WebGAL 网页端视觉小说游戏引擎及可视化游戏制作工具，在 GitHub 获得 1000+ stars，广受用户好评。"
     },
     "theme": {
         "color": "#2f5785",

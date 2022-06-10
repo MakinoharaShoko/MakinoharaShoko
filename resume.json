@@ -37,39 +37,40 @@
         {
             "award_info": "英语 CET6",
             "award_time": "2022"
-        },
-        {
-            "award_info": "字节跳动前端青训营 项目评比 最佳实践奖（总评分第一名）",
-            "award_time": "2022",
-            "dataIndex": 1
         }
     ],
     "workExpList": [
         {
-            "company_name": "安大通",
-            "department_name": "前端部门",
-            "work_time": ["2019.08",""],
-            "work_desc": "负责校园信息查询类小程序“安大通”主页的 UI 设计与实现、维护小程序的接口调用。",
+            "company_name": "快手",
+            "department_name": "商业化技术部/前端研发中心",
+            "work_time": ["2022.07",""],
+            "work_desc": "待定",
             "dataIndex": 0
         }
     ],
     "skillList": [
         {
-            "skill_name": "HTML 和 CSS",
-            "skill_desc": "",
-            "skill_level": 85
+            "skill_name": "HTML、CSS",
+            "skill_desc": "熟悉使用 HTML 与 CSS 构建网站，并能够自主设计并实现令人惊叹的视觉效果。",
+            "skill_level": 90
         },
         {
-            "skill_name": "JavaScript",
-            "skill_desc": "",
-            "skill_level": 70,
+            "skill_name": "JavaScript/TypeScript",
+            "skill_desc": "熟悉 JavaScript 编程，熟悉使用ES6语法，熟练使用 TypeScript 并能够在工程中应用。",
+            "skill_level": 90,
             "dataIndex": 1
         },
         {
             "skill_name": "React / Pixi",
-            "skill_desc": "",
-            "skill_level": 80,
+            "skill_desc": "熟练使用 React HOOK 构建前端应用程序，熟悉 Redux 状态管理工具，熟练使用 AntDesign 等组件库。",
+            "skill_level": 90,
             "dataIndex": 2
+        },
+        {
+            "skill_name": "Node.Js / NestJS",
+            "skill_desc": "熟练使用 Node.JS 开发简易 API 并操作文件系统，有使用 Nest.JS 框架进行后台开发的经验。",
+            "skill_level": 85,
+            "dataIndex": 3
         }
     ],
     "projectList": [
@@ -77,8 +78,8 @@
             "project_name": "WebGAL",
             "project_role": "作者",
             "project_time": "2021.09 - 至今",
-            "project_desc": "全新的基于 Web 的 视觉小说引擎。（ GitHub 500+⭐ ）\nhttps://github.com/MakinoharaShoko/WebGAL",
-            "project_content": "WebGAL 是一款功能完备、界面美观、易于学习的视觉小说引擎，致力于为创作者提供最好的创作体验。该引擎还附带了一个可视化创作工具，创作者无需学习编写代码即可制作游戏。为了使创作者无需关心跨平台和发布问题，WebGAL 以 Web 前端技术为载体，并为手机端做了适配，提供了最优的跨平台能力。以 WebGAL 为平台制作的游戏可以导出为一个静态网页，方便部署到网站上以供在线游玩。",
+            "project_desc": "全新的基于 Web 的 视觉小说引擎。（ GitHub 1000+ stars ）\n 项目地址：https://github.com/MakinoharaShoko/WebGAL",
+            "project_content": "从零开始设计并实现了一套网页端视觉小说游戏引擎及制作工具，实现了主流视觉小说游戏引擎的主要功能。从游戏脚本语法设计、语句解析，再到资源的获取与预加载、动画效果实现、流程控制、用户数据的存储皆为个人独立完成。\n为了降低游戏开发门槛，还开发了一套支持实时预览的网页端游戏制作工具，用于编辑游戏配置、管理游戏资源、可视化编辑游戏脚本制作游戏。\n使用TypeScript编写引擎流程控制与动画效果调用等关键代码，增强引擎的可维护性与可拓展性。使用Pixi.js实现部分粒子特效，丰富游戏演出的表现形式。使用 Redux 实现全局状态管理\n此项目在 GitHub 开源，已获得1000+ 星的认可。已有数十个团体或个人使用该引擎制作自己的游戏；开发者交流群人数超过400人。\n",
             "dataIndex": 0
         },
         {
@@ -86,15 +87,15 @@
             "project_role": "作者",
             "project_time": "2022.01",
             "project_desc": "JavaScript 日志工具，格式化输出 & 上传 & 在线可视化查看\nhttps://github.com/MakinoharaShoko/CloudLog.JS",
-            "project_content": "CloudLog.js 可以在控制台以不同颜色分级输出日志，通过 CloudLog 服务器将日志上传到数据库，并可以实时通过浏览器在线访问（并提供按级别、日期筛选功能）。",
+            "project_content": "CloudLog.js 可以在控制台以不同颜色分级输出日志，通过 CloudLog 后端服务将日志上传到数据库，并可以实时通过浏览器在线访问（并提供按级别、日期筛选功能）。",
             "dataIndex": 0
         },
         {
             "project_name": "安大通小程序",
-            "project_role": "前端开发",
+            "project_role": "小程序开发",
             "project_time": "2021.08 - 至今",
-            "project_desc": "设计并实现小程序主页 UI ",
-            "project_content": "为使用户更方便地查看每日课表、校园卡余额等信息，设计了一套全新的主界面 UI，大大提升了各类信息展示的效率，改善了用户体验。",
+            "project_desc": "设计并实现小程序主页图形用户界面，优化接口调用与数据缓存。",
+            "project_content": "独立设计并实现小程序主页，方便用户查询每日课表、校园卡余额、学分绩点等信息。\n该小程序日活达到数千级别，广受同学们的好评。",
             "dataIndex": 0
         }
     ],
@@ -102,7 +103,7 @@
         {
             "work_name": "WebGAL",
             "work_desc": "网页端视觉小说引擎",
-            "visit_link": "https://github.com/MakinoharaShoko/WebGAL"
+            "visit_link": "https://docs.msfasr.com"
         },
         {
             "work_name": "CloudLog.js",
@@ -111,7 +112,7 @@
         }
     ],
     "aboutme": {
-        "aboutme_desc": "🌱 Focus on UI implementation\n😈 能力项：WebAPP 开发\n热爱 UI 设计与实现的前端工程师，拥有独立设计并实现单页 WebAPP 的经验，创建开源项目 WebGAL 视觉小说引擎。"
+        "aboutme_desc": "熟练掌握 Web APP 的开发；有自主设计并实现 UI 能力，并能够打造具有赏心悦目的视觉效果的界面。\n创立并维护个人开源项目 WebGAL 网页端视觉小说游戏引擎及配套的可视化游戏制作工具，在 GitHub 获得 1000+ stars，广受用户好评。\n有使用 Node.JS 进行后台开发的经验，有实现简易 API 并操作文件系统的经验。"
     },
     "theme": {
         "color": "#2f5785",

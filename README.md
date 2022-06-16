@@ -10,18 +10,6 @@
 
 [CloudLOG.js](https://github.com/MakinoharaShoko/CloudLog.JS)
 
-### 简单、易用、部署便捷但极不安全的网页端即时通讯应用 | A simple and not safe IM.
-
-[eim](https://github.com/MakinoharaShoko/eim)
-
-### 老子就想飞全局变量 | F*** you, I only want to fly my Global variable!
-
-[flyVar](https://github.com/MakinoharaShoko/flyVar)
-
-### 一个简单的随鼠标滚动控制元素滑动的动画库 | Play an animation when wheel scrolls.
-
-[AniScroll](https://github.com/MakinoharaShoko/AniScroll)
-
 > 今年見つけた たくさんの気持ちに 雪が降り積もる  
 > 
 > 在今年所找到的 这些越来越多的感觉上 雪花堆积了起来  

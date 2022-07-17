@@ -50,15 +50,9 @@
     ],
     "skillList": [
         {
-            "skill_name": "HTML & CSS",
-            "skill_desc": "熟练使用 HTML 与 CSS 制作 Web 页面，能够自主设计并实现令人惊叹的视觉效果。",
-            "skill_level": 95
-        },
-        {
-            "skill_name": "JavaScript / TypeScript",
-            "skill_desc": "熟悉 JavaScript 编程，熟悉 ES6 语法，熟练使用 TypeScript 并在工程中应用。",
-            "skill_level": 90,
-            "dataIndex": 1
+            "skill_name": "HTML & CSS & JavaScript / TypeScript",
+            "skill_desc": "熟练使用 HTML 与 CSS 制作 Web 页面，能够自主设计并实现令人惊叹的视觉效果。熟悉 JavaScript 编程，熟悉 ES6 语法，熟练使用 TypeScript 并在工程中应用。",
+            "skill_level": 90
         },
         {
             "skill_name": "React & Redux",

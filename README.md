@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,624 Contributions in the Year 2022
+> 🏆 1,625 Contributions in the Year 2022
  > 
-> 📦 785.1 kB Used in GitHub's Storage 
+> 📦 785.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,22 +70,22 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    230 commits    █████░░░░░░░░░░░░░░░░░░░░   20.21% 
+🌞 Morning    229 commits    █████░░░░░░░░░░░░░░░░░░░░   20.12% 
 🌆 Daytime    315 commits    ███████░░░░░░░░░░░░░░░░░░   27.68% 
-🌃 Evening    529 commits    ███████████░░░░░░░░░░░░░░   46.49% 
+🌃 Evening    530 commits    ███████████░░░░░░░░░░░░░░   46.57% 
 🌙 Night      64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Monday       136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
 Tuesday      178 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
 Wednesday    147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
 Thursday     180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
 Friday       188 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
 Saturday     175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Sunday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86%
+Sunday       134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
 
 ```
 
@@ -131,5 +131,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MakinoharaShoko/MakinoharaShoko/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 18:46:54 UTC
+ Last Updated on 29/08/2022 18:52:36 UTC
 <!--END_SECTION:waka-->

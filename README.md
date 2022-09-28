@@ -67,6 +67,48 @@ Here are some ideas to get you started:
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    222 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72% 
+🌆 Daytime    313 commits    ███████░░░░░░░░░░░░░░░░░░   27.8% 
+🌃 Evening    519 commits    ███████████░░░░░░░░░░░░░░   46.09% 
+🌙 Night      72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.39%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+Tuesday      170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
+Wednesday    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+Thursday     172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Friday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Saturday     181 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+Sunday       127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -84,5 +126,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MakinoharaShoko/MakinoharaShoko/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:56:38 UTC
+ Last Updated on 28/09/2022 18:59:16 UTC
 <!--END_SECTION:waka-->

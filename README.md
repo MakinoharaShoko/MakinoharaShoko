@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -96,16 +96,19 @@ Sunday       127 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               17 mins             ███████████████████░░░░░░   75.64% 
+Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WebGAL                   19 mins             █████████████████████░░░░   84.23% 
+WebGAL_Doc               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.77%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -126,5 +129,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MakinoharaShoko/MakinoharaShoko/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2022 18:57:40 UTC
+ Last Updated on 30/09/2022 18:57:30 UTC
 <!--END_SECTION:waka-->

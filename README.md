@@ -8,7 +8,7 @@
 
 <h3 align="center">欢迎浏览我的开源项目 | Welcome to my open source project.</h3>
 
-### 全新的基于 Web 的 视觉小说引擎 | A brand new Visual Novel engine based on Web.
+### 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
 
 <a title="webgal-stars" target="_blank" href="https://github.com/MakinoharaShoko/WebGAL"><img src="https://img.shields.io/github/stars/MakinoharaShoko/WebGAL?style=for-the-badge" ></a>
 <a title="webgal-forks" target="_blank" href="https://github.com/MakinoharaShoko/WebGAL"><img src="https://img.shields.io/github/forks/MakinoharaShoko/WebGAL?style=for-the-badge" ></a>

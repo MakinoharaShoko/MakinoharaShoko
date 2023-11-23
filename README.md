@@ -3,7 +3,7 @@
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/MakinoharaShoko"><img src="https://img.shields.io/github/stars/MakinoharaShoko?style=social" ></a>
 <a title="bilibili" target="_blank" href="https://space.bilibili.com/7321105"><img src="https://img.shields.io/badge/Bilibili-%E9%82%BB%E5%AE%B6%E7%A0%81%E5%86%9C%E7%9C%9F%E6%98%BC%E9%85%B1-%23DB4D6D" ></a>
-<a title="blog" target="_blank" href="https://msfasr.com/"><img src="https://img.shields.io/badge/Blog-Mahiru's%20Humble%20Abode-%2366327C" ></a>
+<a title="blog" target="_blank" href="https://blog.icedn.com/"><img src="https://img.shields.io/badge/Blog-Mahiru's%20Humble%20Abode-%2366327C" ></a>
 </p>
 
 <h3 align="center">欢迎浏览我的开源项目 | Welcome to my open source project.</h3>
@@ -23,10 +23,6 @@
 [WebGAL Terre](https://github.com/MakinoharaShoko/WebGAL_Terre)
 
 ## 关于我 | About Me
-
-[关于](https://msfasr.com/aboutNew/)
-
-[![Kamome's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakinoharaShoko)](https://github.com/anuraghazra/github-readme-stats)
 
 > 今年見つけた たくさんの気持ちに 雪が降り積もる  
 > 

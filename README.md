@@ -1,7 +1,6 @@
 <h2 align="center">Hi, Mahiru here.</h2>
 
 <p align="center">
-<a title="github" target="_blank" href="https://github.com/MakinoharaShoko"><img src="https://img.shields.io/github/stars/MakinoharaShoko?style=social" ></a>
 <a title="bilibili" target="_blank" href="https://space.bilibili.com/7321105"><img src="https://img.shields.io/badge/Bilibili-%E9%82%BB%E5%AE%B6%E7%A0%81%E5%86%9C%E7%9C%9F%E6%98%BC%E9%85%B1-%23DB4D6D" ></a>
 <a title="blog" target="_blank" href="https://blog.icedn.com/"><img src="https://img.shields.io/badge/Blog-Mahiru's%20Humble%20Abode-%2366327C" ></a>
 </p>

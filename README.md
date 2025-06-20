@@ -9,17 +9,17 @@
 
 ### 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
 
-<a title="webgal-stars" target="_blank" href="https://github.com/MakinoharaShoko/WebGAL"><img src="https://img.shields.io/github/stars/MakinoharaShoko/WebGAL?style=for-the-badge" ></a>
-<a title="webgal-forks" target="_blank" href="https://github.com/MakinoharaShoko/WebGAL"><img src="https://img.shields.io/github/forks/MakinoharaShoko/WebGAL?style=for-the-badge" ></a>
+<a title="webgal-stars" target="_blank" href="https://github.com/OpenWebGAL/WebGAL"><img src="https://img.shields.io/github/stars/OpenWebGAL/WebGAL?style=for-the-badge" ></a>
+<a title="webgal-forks" target="_blank" href="https://github.com/OpenWebGAL/WebGAL"><img src="https://img.shields.io/github/forks/OpenWebGAL/WebGAL?style=for-the-badge" ></a>
 
-[WebGAL](https://github.com/MakinoharaShoko/WebGAL)
+[WebGAL](https://github.com/OpenWebGAL/WebGAL)
 
 ### WebGAL 图形化编辑器 | Galgame Editing. Redefined
 
-<a title="cloudlog-stars" target="_blank" href="https://github.com/MakinoharaShoko/WebGAL_Terre"><img src="https://img.shields.io/github/stars/MakinoharaShoko/WebGAL_Terre?style=for-the-badge" ></a>
-<a title="webgal-forks" target="_blank" href="https://github.com/MakinoharaShoko/WebGAL_Terre"><img src="https://img.shields.io/github/forks/MakinoharaShoko/WebGAL_Terre?style=for-the-badge" ></a>
+<a title="cloudlog-stars" target="_blank" href="https://github.com/OpenWebGAL/WebGAL_Terre"><img src="https://img.shields.io/github/stars/OpenWebGAL/WebGAL_Terre?style=for-the-badge" ></a>
+<a title="webgal-forks" target="_blank" href="https://github.com/OpenWebGAL/WebGAL_Terre"><img src="https://img.shields.io/github/forks/OpenWebGAL/WebGAL_Terre?style=for-the-badge" ></a>
 
-[WebGAL Terre](https://github.com/MakinoharaShoko/WebGAL_Terre)
+[WebGAL Terre](https://github.com/OpenWebGAL/WebGAL_Terre)
 
 ## 关于我 | About Me
 
